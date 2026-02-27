@@ -14,5 +14,5 @@
     "tools": ["claude"]
   },
   "tags": ["claude-code", "automation", "programming", "pty", "english"],
-  "license": "AGPL-3.0"
+  "license": "MIT"
 }
