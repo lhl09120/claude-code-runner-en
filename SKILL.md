@@ -22,10 +22,10 @@ A wrapper skill for running Claude Code programmatically in non-interactive envi
 
 ```bash
 # Clone the skill
-git clone https://github.com/lhl09120/claude-code-runner-skill.git
+git clone https://github.com/lhl09120/claude-code-runner-en.git
 
 # Make script executable
-chmod +x claude-code-runner/scripts/run_claude.py
+chmod +x claude-code-runner-en/scripts/run_claude.py
 ```
 
 ## Usage
